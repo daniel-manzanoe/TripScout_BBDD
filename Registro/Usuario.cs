@@ -11,10 +11,20 @@ namespace Registro
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel;
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Usuario
     {
+        [Required(ErrorMessage = "Introduzca un correo")]
         public string correo { get; set; }
+        [Required(ErrorMessage = "Introduzca un correo")]
+        [DataType(DataType.Password)]
+        [DisplayName("Introduzca una contraseña")]
         public string contraseña { get; set; }
+        [DataType(DataType.Password)]
+        [DisplayName("confirmar contraseña")]
+        [Compare("contraseña")]
+        public string confirmedPassword { get; set; }
     }
 }
