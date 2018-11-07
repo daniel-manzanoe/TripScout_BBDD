@@ -1,0 +1,306 @@
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\ApplicationInsights.config
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Registro.dll.config
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Registro.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Registro.pdb
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\csc.exe
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\csc.exe.config
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\csc.rsp
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\csi.exe
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\csi.exe.config
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\csi.rsp
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.AppContext.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Console.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\vbc.exe
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\vbc.exe.config
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\vbc.rsp
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Antlr3.Runtime.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\EntityFramework.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\EntityFramework.SqlServer.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AI.Web.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Newtonsoft.Json.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.Helpers.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.Mvc.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.Optimization.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.Razor.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.WebPages.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\WebGrease.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\EntityFramework.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\EntityFramework.SqlServer.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.Helpers.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.Mvc.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.Optimization.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.Razor.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.WebPages.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Newtonsoft.Json.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Antlr3.Runtime.pdb
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.AI.Web.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\obj\Debug\Registro.csproj.CopyComplete
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\obj\Debug\Registro.dll
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\obj\Debug\Registro.pdb
+C:\Users\Alvaro\Desktop\Carpetas\Universidad archivos\ISA\tripscout\Registro\Registro\obj\Debug\Registro.csprojAssemblyReference.cache
+C:\Users\danim\Desktop\Registro\Registro\bin\ApplicationInsights.config
+C:\Users\danim\Desktop\Registro\Registro\bin\Registro.dll.config
+C:\Users\danim\Desktop\Registro\Registro\bin\Registro.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Registro.pdb
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\csc.exe
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\csc.exe.config
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\csc.rsp
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\csi.exe
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\csi.exe.config
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\csi.rsp
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.AppContext.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Console.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.IO.Compression.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Security.Claims.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.ValueTuple.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\vbc.exe
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\vbc.exe.config
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\vbc.rsp
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\VBCSCompiler.exe
+C:\Users\danim\Desktop\Registro\Registro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danim\Desktop\Registro\Registro\bin\Antlr3.Runtime.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\EntityFramework.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\EntityFramework.SqlServer.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AI.Web.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\Newtonsoft.Json.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.Helpers.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.Mvc.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.Optimization.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.Razor.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.WebPages.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.WebPages.Razor.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\WebGrease.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\EntityFramework.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\EntityFramework.SqlServer.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.Helpers.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.Mvc.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.Optimization.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.Razor.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.WebPages.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Web.WebPages.Razor.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\Newtonsoft.Json.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\Antlr3.Runtime.pdb
+C:\Users\danim\Desktop\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.AI.Web.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danim\Desktop\Registro\Registro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\es\System.Web.Razor.resources.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\danim\Desktop\Registro\Registro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\danim\Desktop\Registro\Registro\obj\Debug\Registro.csprojAssemblyReference.cache
+C:\Users\danim\Desktop\Registro\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\danim\Desktop\Registro\Registro\obj\Debug\Registro.csproj.CopyComplete
+C:\Users\danim\Desktop\Registro\Registro\obj\Debug\Registro.dll
+C:\Users\danim\Desktop\Registro\Registro\obj\Debug\Registro.pdb
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\ApplicationInsights.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Registro.dll.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Registro.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Registro.pdb
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csc.exe
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csc.exe.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csc.rsp
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csi.exe
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csi.exe.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csi.rsp
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.AppContext.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Console.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\vbc.exe
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\vbc.exe.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\vbc.rsp
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Antlr3.Runtime.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\EntityFramework.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\EntityFramework.SqlServer.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.Web.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Newtonsoft.Json.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Helpers.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Mvc.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Optimization.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Razor.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\WebGrease.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\EntityFramework.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\EntityFramework.SqlServer.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Helpers.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Mvc.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Optimization.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Razor.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Newtonsoft.Json.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Antlr3.Runtime.pdb
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.Web.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\Registro.csprojAssemblyReference.cache
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\Registro.csproj.CopyComplete
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\Registro.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\Registro.pdb
