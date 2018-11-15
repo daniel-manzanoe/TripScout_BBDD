@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Registro",
+    "\\Registro\\Views",
+    "\\Registro\\Views\\Home",
+    "\\Registro\\Views\\Shared",
+    "\\Registro\\Views\\User"
   ],
   "PreviewInSolutionExplorer": false
 }

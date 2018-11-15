@@ -34,17 +34,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <PublishDatabaseSettings>
-      <Objects>
-        <ObjectGroup Name="DbModels-Implementación" Order="1">
-          <Destination Path="" />
-          <Object Type="DbFullSql">
-            <PreSource Path="Data Source=%28localdb%29\MSSQLLocalDB%3bInitial Catalog=RegistroDB%3bIntegrated Security=True%3bApplication Name=EntityFramework" ScriptSchema="True" ScriptData="False" CopyAllFullTextCatalogs="False" DriDefaults="True" />
-            <Source Path="obj\Debug\AutoScripts\DbModels-Implementación_SchemaOnly.sql" Transacted="True" />
-          </Object>
-        </ObjectGroup>
-      </Objects>
-    </PublishDatabaseSettings>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
