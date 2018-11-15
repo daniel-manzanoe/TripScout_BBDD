@@ -16,14 +16,16 @@ namespace Registro
 
     public partial class Usuario
     {
+
         [Required(ErrorMessage = "Introduzca un correo")]
+        [DisplayName("Correo")]
         public string correo { get; set; }
         [Required(ErrorMessage = "Introduzca un correo")]
         [DataType(DataType.Password)]
-        [DisplayName("Introduzca una contraseña")]
+        [DisplayName("Contraseña")]
         public string contraseña { get; set; }
         [DataType(DataType.Password)]
-        [DisplayName("confirmar contraseña")]
+        [DisplayName("Confirmar contraseña")]
         [Compare("contraseña")]
         public string confirmedPassword { get; set; }
     }
