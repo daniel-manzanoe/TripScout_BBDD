@@ -1,204 +1,362 @@
-C:\TripScout\Registro\obj\Debug\TripScout.csprojAssemblyReference.cache
-C:\TripScout\Registro\obj\Debug\TripScout.csproj.CoreCompileInputs.cache
-C:\TripScout\Registro\bin\ApplicationInsights.config
-C:\TripScout\Registro\bin\Registro.dll.config
-C:\TripScout\Registro\bin\Registro.dll
-C:\TripScout\Registro\bin\Registro.pdb
-C:\TripScout\Registro\bin\roslyn\csc.exe
-C:\TripScout\Registro\bin\roslyn\csc.exe.config
-C:\TripScout\Registro\bin\roslyn\csc.rsp
-C:\TripScout\Registro\bin\roslyn\csi.exe
-C:\TripScout\Registro\bin\roslyn\csi.exe.config
-C:\TripScout\Registro\bin\roslyn\csi.rsp
-C:\TripScout\Registro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\TripScout\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\TripScout\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\TripScout\Registro\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\TripScout\Registro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\TripScout\Registro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\TripScout\Registro\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\TripScout\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\TripScout\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\TripScout\Registro\bin\roslyn\Microsoft.Managed.Core.targets
-C:\TripScout\Registro\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\TripScout\Registro\bin\roslyn\System.AppContext.dll
-C:\TripScout\Registro\bin\roslyn\System.Collections.Immutable.dll
-C:\TripScout\Registro\bin\roslyn\System.Console.dll
-C:\TripScout\Registro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\TripScout\Registro\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\TripScout\Registro\bin\roslyn\System.IO.Compression.dll
-C:\TripScout\Registro\bin\roslyn\System.IO.FileSystem.dll
-C:\TripScout\Registro\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\TripScout\Registro\bin\roslyn\System.IO.Pipes.AccessControl.dll
-C:\TripScout\Registro\bin\roslyn\System.IO.Pipes.dll
-C:\TripScout\Registro\bin\roslyn\System.Reflection.Metadata.dll
-C:\TripScout\Registro\bin\roslyn\System.Security.AccessControl.dll
-C:\TripScout\Registro\bin\roslyn\System.Security.Claims.dll
-C:\TripScout\Registro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\TripScout\Registro\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\TripScout\Registro\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\TripScout\Registro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\TripScout\Registro\bin\roslyn\System.Security.Principal.Windows.dll
-C:\TripScout\Registro\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\TripScout\Registro\bin\roslyn\System.ValueTuple.dll
-C:\TripScout\Registro\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\TripScout\Registro\bin\roslyn\System.Xml.XmlDocument.dll
-C:\TripScout\Registro\bin\roslyn\System.Xml.XPath.dll
-C:\TripScout\Registro\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\TripScout\Registro\bin\roslyn\vbc.exe
-C:\TripScout\Registro\bin\roslyn\vbc.exe.config
-C:\TripScout\Registro\bin\roslyn\vbc.rsp
-C:\TripScout\Registro\bin\roslyn\VBCSCompiler.exe
-C:\TripScout\Registro\bin\roslyn\VBCSCompiler.exe.config
-C:\TripScout\Registro\bin\Antlr3.Runtime.dll
-C:\TripScout\Registro\bin\EntityFramework.dll
-C:\TripScout\Registro\bin\EntityFramework.SqlServer.dll
-C:\TripScout\Registro\bin\Microsoft.AI.Agent.Intercept.dll
-C:\TripScout\Registro\bin\Microsoft.AI.DependencyCollector.dll
-C:\TripScout\Registro\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\TripScout\Registro\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\TripScout\Registro\bin\Microsoft.AI.Web.dll
-C:\TripScout\Registro\bin\Microsoft.AI.WindowsServer.dll
-C:\TripScout\Registro\bin\Microsoft.ApplicationInsights.dll
-C:\TripScout\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.dll
-C:\TripScout\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\TripScout\Registro\bin\Microsoft.Web.Infrastructure.dll
-C:\TripScout\Registro\bin\Newtonsoft.Json.dll
-C:\TripScout\Registro\bin\System.Diagnostics.DiagnosticSource.dll
-C:\TripScout\Registro\bin\System.Web.Helpers.dll
-C:\TripScout\Registro\bin\System.Web.Mvc.dll
-C:\TripScout\Registro\bin\System.Web.Optimization.dll
-C:\TripScout\Registro\bin\System.Web.Razor.dll
-C:\TripScout\Registro\bin\System.Web.WebPages.Deployment.dll
-C:\TripScout\Registro\bin\System.Web.WebPages.dll
-C:\TripScout\Registro\bin\System.Web.WebPages.Razor.dll
-C:\TripScout\Registro\bin\WebGrease.dll
-C:\TripScout\Registro\bin\EntityFramework.xml
-C:\TripScout\Registro\bin\EntityFramework.SqlServer.xml
-C:\TripScout\Registro\bin\System.Web.Helpers.xml
-C:\TripScout\Registro\bin\System.Web.Mvc.xml
-C:\TripScout\Registro\bin\System.Web.Optimization.xml
-C:\TripScout\Registro\bin\System.Web.Razor.xml
-C:\TripScout\Registro\bin\System.Web.WebPages.xml
-C:\TripScout\Registro\bin\System.Web.WebPages.Deployment.xml
-C:\TripScout\Registro\bin\System.Web.WebPages.Razor.xml
-C:\TripScout\Registro\bin\Newtonsoft.Json.xml
-C:\TripScout\Registro\bin\Antlr3.Runtime.pdb
-C:\TripScout\Registro\bin\System.Diagnostics.DiagnosticSource.xml
-C:\TripScout\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.xml
-C:\TripScout\Registro\bin\Microsoft.AI.DependencyCollector.xml
-C:\TripScout\Registro\bin\Microsoft.AI.WindowsServer.xml
-C:\TripScout\Registro\bin\Microsoft.AI.Web.xml
-C:\TripScout\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\TripScout\Registro\bin\es\System.Web.Helpers.resources.dll
-C:\TripScout\Registro\bin\es\System.Web.Mvc.resources.dll
-C:\TripScout\Registro\bin\es\System.Web.Optimization.resources.dll
-C:\TripScout\Registro\bin\es\System.Web.Razor.resources.dll
-C:\TripScout\Registro\bin\es\System.Web.WebPages.resources.dll
-C:\TripScout\Registro\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\TripScout\Registro\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\TripScout\Registro\obj\Debug\TripScout.csproj.CopyComplete
-C:\TripScout\Registro\obj\Debug\Registro.dll
-C:\TripScout\Registro\obj\Debug\Registro.pdb
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\ApplicationInsights.config
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Registro.dll.config
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Registro.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Registro.pdb
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csc.exe
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csc.exe.config
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csc.rsp
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csi.exe
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csi.exe.config
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csi.rsp
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.Managed.Core.targets
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.AppContext.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Collections.Immutable.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Console.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.Compression.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.FileSystem.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.Pipes.AccessControl.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.Pipes.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Reflection.Metadata.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.AccessControl.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Claims.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Principal.Windows.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.ValueTuple.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Xml.XmlDocument.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Xml.XPath.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\vbc.exe
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\vbc.exe.config
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\vbc.rsp
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\VBCSCompiler.exe
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\VBCSCompiler.exe.config
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Antlr3.Runtime.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\EntityFramework.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\EntityFramework.SqlServer.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.Agent.Intercept.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.DependencyCollector.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.Web.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.WindowsServer.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.ApplicationInsights.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.Web.Infrastructure.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Newtonsoft.Json.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Diagnostics.DiagnosticSource.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Helpers.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Mvc.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Optimization.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Razor.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.Deployment.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.Razor.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\WebGrease.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\EntityFramework.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\EntityFramework.SqlServer.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Helpers.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Mvc.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Optimization.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Razor.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.Deployment.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.Razor.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Newtonsoft.Json.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Antlr3.Runtime.pdb
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Diagnostics.DiagnosticSource.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.DependencyCollector.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.WindowsServer.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.Web.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.Helpers.resources.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.Mvc.resources.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.Optimization.resources.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.Razor.resources.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.WebPages.resources.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\TripScout.csprojAssemblyReference.cache
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\TripScout.csproj.CoreCompileInputs.cache
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\TripScout.csproj.CopyComplete
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\Registro.dll
-C:\GitHub\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\Registro.pdb
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\ApplicationInsights.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Registro.dll.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Registro.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Registro.pdb
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csc.exe
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csc.exe.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csc.rsp
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csi.exe
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csi.exe.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\csi.rsp
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.AppContext.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Console.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\vbc.exe
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\vbc.exe.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\vbc.rsp
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Antlr3.Runtime.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\EntityFramework.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\EntityFramework.SqlServer.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.Web.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Newtonsoft.Json.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Helpers.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Mvc.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Optimization.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Razor.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\WebGrease.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\EntityFramework.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\EntityFramework.SqlServer.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Helpers.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Mvc.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Optimization.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.Razor.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Newtonsoft.Json.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Antlr3.Runtime.pdb
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.AI.Web.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\TripScout.csprojAssemblyReference.cache
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\TripScout.csproj.CoreCompileInputs.cache
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\TripScout.csproj.CopyComplete
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\Registro.dll
+C:\Users\Ines\Downloads\Registro\Registro\Registro\obj\Debug\Registro.pdb
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\ApplicationInsights.config
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Registro.dll.config
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Registro.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Registro.pdb
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Antlr3.Runtime.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\EntityFramework.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\EntityFramework.SqlServer.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AI.Web.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Newtonsoft.Json.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.Helpers.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.Mvc.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.Optimization.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.Razor.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.WebPages.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.WebPages.Razor.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\WebGrease.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\EntityFramework.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\EntityFramework.SqlServer.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.Helpers.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.Mvc.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.Optimization.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.Razor.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.WebPages.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Web.WebPages.Razor.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Newtonsoft.Json.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Antlr3.Runtime.pdb
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.AI.Web.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\es\System.Web.Razor.resources.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\obj\Debug\TripScout.csprojAssemblyReference.cache
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\obj\Debug\TripScout.csproj.CoreCompileInputs.cache
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\obj\Debug\TripScout.csproj.CopyComplete
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\obj\Debug\Registro.dll
+C:\Users\danim\Desktop\Registro sprint 1\Registro\Registro\obj\Debug\Registro.pdb
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\ApplicationInsights.config
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Registro.dll.config
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Registro.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Registro.pdb
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\csc.exe
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\csc.exe.config
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\csc.rsp
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\csi.exe
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\csi.exe.config
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\csi.rsp
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.AppContext.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Console.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.IO.Pipes.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Security.AccessControl.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Security.Claims.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\vbc.exe
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\vbc.exe.config
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\vbc.rsp
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Antlr3.Runtime.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\EntityFramework.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\EntityFramework.SqlServer.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AI.DependencyCollector.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AI.Web.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AI.WindowsServer.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.ApplicationInsights.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Newtonsoft.Json.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.Helpers.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.Mvc.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.Optimization.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.Razor.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.WebPages.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\WebGrease.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\EntityFramework.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\EntityFramework.SqlServer.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.Helpers.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.Mvc.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.Optimization.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.Razor.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.WebPages.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Newtonsoft.Json.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Antlr3.Runtime.pdb
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AI.DependencyCollector.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AI.WindowsServer.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.AI.Web.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\es\System.Web.Helpers.resources.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\es\System.Web.Mvc.resources.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\es\System.Web.Optimization.resources.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\es\System.Web.Razor.resources.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\es\System.Web.WebPages.resources.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\obj\Debug\TripScout.csprojAssemblyReference.cache
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\obj\Debug\TripScout.csproj.CoreCompileInputs.cache
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\obj\Debug\TripScout.csproj.CopyComplete
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\obj\Debug\Registro.dll
+E:\Proyectos\VisualStudio\TripScout_BBDD\Registro\obj\Debug\Registro.pdb
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\ApplicationInsights.config
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Registro.dll.config
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Registro.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Registro.pdb
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csc.exe
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csc.exe.config
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csc.rsp
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csi.exe
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csi.exe.config
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\csi.rsp
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.AppContext.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Console.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.Compression.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Claims.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.ValueTuple.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\vbc.exe
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\vbc.exe.config
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\vbc.rsp
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\VBCSCompiler.exe
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Antlr3.Runtime.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\EntityFramework.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\EntityFramework.SqlServer.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.Web.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Newtonsoft.Json.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Helpers.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Mvc.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Optimization.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Razor.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.Razor.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\WebGrease.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\EntityFramework.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\EntityFramework.SqlServer.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Helpers.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Mvc.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Optimization.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.Razor.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Web.WebPages.Razor.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Newtonsoft.Json.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Antlr3.Runtime.pdb
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.AI.Web.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.Razor.resources.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\TripScout.csprojAssemblyReference.cache
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\TripScout.csproj.CoreCompileInputs.cache
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\TripScout.csproj.CopyComplete
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\Registro.dll
+C:\Users\adria\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\Registro.pdb

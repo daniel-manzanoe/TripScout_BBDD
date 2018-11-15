@@ -18,6 +18,7 @@ namespace Registro
 
         public DatatTypeAttribute(DataType password)
         {
+
             this.password = password;
         }
     }
