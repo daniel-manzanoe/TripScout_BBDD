@@ -2,7 +2,7 @@
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
   <EntityContainerMapping StorageEntityContainer="RegistroDBModelStoreContainer" CdmEntityContainer="DbModels">
     <EntitySetMapping Name="Usuario">
-      <EntityTypeMapping TypeName="RegistroDBModel.Usuario">
+      <EntityTypeMapping TypeName="IsTypeOf(RegistroDBModel.Usuario)">
         <MappingFragment StoreEntitySet="Usuario">
           <ScalarProperty Name="correo" ColumnName="correo" />
           <ScalarProperty Name="contraseña" ColumnName="contraseña" />
