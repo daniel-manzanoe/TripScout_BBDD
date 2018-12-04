@@ -4,18 +4,20 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-    <Schema Namespace="RegistroDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
-  <EntityContainer Name="RegistroDBModelStoreContainer">
-    <EntitySet Name="Usuario" EntityType="RegistroDBModel.Store.Usuario" store:Type="Tables" Schema="dbo" />
-  </EntityContainer>
-  <EntityType Name="Usuario">
-    <Key>
-      <PropertyRef Name="correo" />
-    </Key>
-    <Property Name="correo" Type="nchar" Nullable="false" MaxLength="50" />
-    <Property Name="contraseña" Type="nchar" Nullable="true" MaxLength="50" />
-  </EntityType>
-</Schema></edmx:StorageModels>
+    <Schema Namespace="RegistroDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Usuario">
+          <Key>
+            <PropertyRef Name="correo" />
+          </Key>
+          <Property Name="correo" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="contraseña" Type="nchar" MaxLength="50" />
+          <Property Name="nombre" Type="varchar" MaxLength="30" />
+          <Property Name="tipo" Type="bit" />
+        </EntityType>
+        <EntityContainer Name="RegistroDBModelStoreContainer">
+          <EntitySet Name="Usuario" EntityType="Self.Usuario" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="RegistroDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -25,6 +27,8 @@
           </Key>
           <Property Name="correo" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
           <Property Name="contraseña" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="tipo" Type="Boolean" />
         </EntityType>
         <EntityContainer Name="DbModels" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Usuario" EntityType="Self.Usuario" />
@@ -38,7 +42,9 @@
     <EntitySetMapping Name="Usuario">
       <EntityTypeMapping TypeName="IsTypeOf(RegistroDBModel.Usuario)">
         <MappingFragment StoreEntitySet="Usuario">
-          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+                <ScalarProperty Name="nombre" ColumnName="nombre" />
+                <ScalarProperty Name="correo" ColumnName="correo" />
           <ScalarProperty Name="contraseña" ColumnName="contraseña" />
         </MappingFragment>
       </EntityTypeMapping>

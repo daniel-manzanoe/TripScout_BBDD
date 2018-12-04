@@ -4,6 +4,8 @@
     <EntitySetMapping Name="Usuario">
       <EntityTypeMapping TypeName="IsTypeOf(RegistroDBModel.Usuario)">
         <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
           <ScalarProperty Name="correo" ColumnName="correo" />
           <ScalarProperty Name="contraseña" ColumnName="contraseña" />
         </MappingFragment>

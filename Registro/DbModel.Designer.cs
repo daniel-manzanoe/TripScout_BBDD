@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\GitHub\TripScout_BBDD\TripScout_BBDD\Registro\DbModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\alvar\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\DbModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

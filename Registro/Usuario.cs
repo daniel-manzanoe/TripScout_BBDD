@@ -28,5 +28,9 @@ namespace Registro
         [DisplayName("Confirmar contraseña")]
         [Compare("contraseña")]
         public string confirmedPassword { get; set; }
+        [DisplayName("Nombre")]
+        public string nombre { get; set; }
+        [DisplayName("Tipo de usuario")]
+        public Nullable<bool> tipo { get; set; }
     }
 }
