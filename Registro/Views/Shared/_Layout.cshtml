@@ -60,13 +60,12 @@
                     <span class="icon-bar"></span>
                 </button>
                 <div id="logo-container">
-                    <img id="imagen1" align="middle" src="..\Imagenes\TripScout_Cabecera.png" width="100%" height="100%" />
+                    <a href="/Home/Index">
+                        <img id="imagen1" align="middle" src="..\Imagenes\TripScout_Cabecera.png" />
+                    </a>
                 </div>
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
-                </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>@Html.ActionLink("Regístrate", "AddOrEdit", "User")</li>
                     <li>@Html.ActionLink("Iniciar Sesión", "Login", "User")</li>
