@@ -4,7 +4,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    <title>@ViewBag.Title - TripScout</title>
+    <link href="..\Imagenes\TripScout_Logo.png" rel="icon">
+
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 
@@ -17,12 +19,12 @@
         html, body {
             height: 100%;
         }
-       
+
         footer {
-            position: relative;
+            position: fixed;
             bottom: 0;
-            right:0;
-            left:0;
+            right: 0;
+            left: 0;
             /* Altura total del footer en px con valor negativo */
             margin-top: -50px;
             /* Altura del footer en px. Se han restado los 5px del margen
@@ -58,15 +60,12 @@
                     <span class="icon-bar"></span>
                 </button>
                 <div id="logo-container">
-                    <img id="imagen1" align="center" src= "..\Imagenes\TripScout_Cabecera.png" width="100%" height="100%" />
+                    <img id="imagen1" align="middle" src="..\Imagenes\TripScout_Cabecera.png" width="100%" height="100%" />
                 </div>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
-                    <li>@Html.ActionLink("Sobre nosotros", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contáctanos", "Contact", "Home")</li>
-
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>@Html.ActionLink("Regístrate", "AddOrEdit", "User")</li>
@@ -79,7 +78,11 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - Tripscout</p>
+            <p>
+                &copy; @DateTime.Now.Year - Tripscout ·
+                @Html.ActionLink("Sobre nosotros", "About", "Home") ·
+                @Html.ActionLink("Contáctanos", "Contact", "Home")
+            </p>
         </footer>
     </div>
 
@@ -89,3 +92,4 @@
 </body>
 
 </html>
+
