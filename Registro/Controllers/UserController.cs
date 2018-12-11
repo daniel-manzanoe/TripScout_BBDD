@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net;
+using System.Net.Mail;
 using System.Text.RegularExpressions;
 using System.Web;
 using System.Web.Mvc;
@@ -15,6 +17,7 @@ namespace Registro.Controllers
         public ActionResult AddOrEdit(int id = 0)
         {
             Usuario usuarioModel = new Usuario();
+            SendEmail("ines.lbaldominos@gmail.com");
             return View(usuarioModel);
         }
 
@@ -32,6 +35,7 @@ namespace Registro.Controllers
                 }
                 Debug.WriteLine("Contraseña valida");
                 dbModel.Usuario.Add(userModel);
+                SendEmail(userModel.correo);
                 dbModel.SaveChanges();
             }
             return (View("AddOrEdit", new Usuario()));
@@ -72,9 +76,47 @@ namespace Registro.Controllers
             {
                 return true;
             }
-            return false;
+            else
+            {
+                return false;
+            }
+            
+        }
+
+        public void SendEmail(String email)
+        {
+            MailMessage mail = new MailMessage("tripscout.ISAt@gmail.com", email, "Confirmar registro", "mailBody");
+            mail.From = new MailAddress("tripscout.ISA@gmail.com", "TripScout");
+            mail.IsBodyHtml = true; // necessary if you're using html email
+
+            NetworkCredential credential = new NetworkCredential("tripscout.ISA@gmail.com", "tripscout1234");
+            SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
+            smtp.EnableSsl = true;
+            smtp.UseDefaultCredentials = false;
+            smtp.Credentials = credential;
+            smtp.Send(mail);
+        }
+
+        private Boolean email_bien_escrito(String email)
+        {
+            String expresion;
+            expresion = "\\w+([-+.']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+            if (Regex.IsMatch(email, expresion))
+            {
+                if (Regex.Replace(email, expresion, String.Empty).Length == 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 
 }
-
