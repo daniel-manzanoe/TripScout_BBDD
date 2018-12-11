@@ -84,7 +84,7 @@ namespace Registro.Controllers
 
         public void SendEmail(String email)
         {
-            MailMessage mail = new MailMessage("tripscout.ISAt@gmail.com", email, "Confirmar registro", "mailBody");
+            MailMessage mail = new MailMessage("tripscout.ISA@gmail.com", email, "Confirmar registro", "mailBody");
             mail.From = new MailAddress("tripscout.ISA@gmail.com", "TripScout");
             mail.IsBodyHtml = true; // necessary if you're using html email
 
