@@ -17,7 +17,6 @@ namespace Registro.Controllers
         public ActionResult AddOrEdit(int id = 0)
         {
             Usuario usuarioModel = new Usuario();
-            SendEmail("ines.lbaldominos@gmail.com");
             return View(usuarioModel);
         }
 
