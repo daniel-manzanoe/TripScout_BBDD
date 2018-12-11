@@ -30,7 +30,7 @@ namespace Registro
         public string confirmedPassword { get; set; }
         [DisplayName("Nombre")]
         public string nombre { get; set; }
-        [DisplayName("Tipo de usuario")]
-        public Nullable<bool> tipo { get; set; }
+        [DisplayName("Marcar esta opción si desea una cuenta de Guía")]
+        public bool tipo { get; set; }
     }
 }

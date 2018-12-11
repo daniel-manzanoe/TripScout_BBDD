@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Web;
 using System.Web.Mvc;
 using Registro;
@@ -22,10 +23,14 @@ namespace Registro.Controllers
         {
             using (DbModels dbModel = new DbModels())
             {
-                if (dbModel.Usuario.Any(x => x.correo == userModel.correo))
+                if (dbModel.Usuario.Any(x => x.correo == userModel.correo) || !passwordSecurity(userModel.contraseña))
                 {
+                    Debug.WriteLine("Contraseña invalida");
+
                     return View("AddOrEdit", new Usuario());
+
                 }
+                Debug.WriteLine("Contraseña valida");
                 dbModel.Usuario.Add(userModel);
                 dbModel.SaveChanges();
             }
@@ -61,6 +66,15 @@ namespace Registro.Controllers
             Debug.WriteLine("No existe el usuario");
             return (View("Login", new Usuario()));
         }
+        public bool passwordSecurity(String password)
+        {
+            if (Regex.IsMatch(password, @"^.*(?=.{7,})(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9]).*$"))
+            {
+                return true;
+            }
+            return false;
+        }
     }
+
 }
 
