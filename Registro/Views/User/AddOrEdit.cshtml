@@ -4,85 +4,126 @@
     ViewBag.Title = "Registrarse";
 }
 
-<head>
-</head>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '368180997267850',
+            cookie: true,
+            xfbml: true,
+            version: 'v3.2'
+        });
+
+        FB.AppEvents.logPageView();
+
+    };
+
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) { return; }
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div id="fb-root"></div>
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v3.2&appId=368180997267850&autoLogAppEvents=1';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
 
 <h2>Registrarse</h2>
 
-@using (Html.BeginForm("AddOrEdit","User", FormMethod.Post )) //especifica qué se hace al dar al botón crear
+@using (Html.BeginForm("AddOrEdit", "User", FormMethod.Post)) //especifica qué se hace al dar al botón crear
 {
     @Html.AntiForgeryToken()
-    
-<div class="form-horizontal">
-    <h4>Usuario</h4>
-    <hr />
-    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-    <div class="form-group">
-        @Html.LabelFor(model => model.nombre, htmlAttributes: new { @class = "control-label col-md-2" })
-        <div class="col-md-10">
-            @Html.EditorFor(model => model.nombre, new { htmlAttributes = new { @class = "form-control" } })
-            @Html.ValidationMessageFor(model => model.nombre, "", new { @class = "text-danger" })
-        </div>
-    </div>
-    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
 
-    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-    <div class="form-group">
-        @Html.LabelFor(model => model.correo, htmlAttributes: new { @class = "control-label col-md-2" })
-        <div class="col-md-10">
-            @Html.EditorFor(model => model.correo, new { htmlAttributes = new { @class = "form-control" } })
-            @Html.ValidationMessageFor(model => model.correo, "", new { @class = "text-danger" })
-        </div>
-    </div>
+    <div class="row">
+        <hr />
+        <div class="col-sm-8">
 
-    <div class="form-group">
-        @Html.LabelFor(model => model.contraseña, htmlAttributes: new { @class = "control-label col-md-2" })
-        <div class="col-md-10">
-            @Html.EditorFor(model => model.contraseña, new { htmlAttributes = new { @class = "form-control" } })
-            @Html.ValidationMessageFor(model => model.contraseña, "", new { @class = "text-danger" })
-        </div>
-    </div>
+            <div class="form-horizontal">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.nombre, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.nombre, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.nombre, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
 
-    <div class="form-group">
-        @Html.LabelFor(model => model.confirmedPassword, htmlAttributes: new { @class = "control-label col-md-2" })
-        <div class="col-md-10">
-            @Html.EditorFor(model => model.confirmedPassword, new { htmlAttributes = new { @class = "form-control" } })
-            @Html.ValidationMessageFor(model => model.confirmedPassword, "", new { @class = "text-danger" })
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.correo, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.correo, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.correo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.contraseña, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.contraseña, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.contraseña, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.confirmedPassword, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.confirmedPassword, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.confirmedPassword, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.tipo, htmlAttributes: new { @class = "control-label col-md-6" })
+                    <div class="col-md-4">
+                        @Html.CheckBoxFor(model => model.tipo, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.tipo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="from-group">
+                    <div class="col-md-offset-1 col-md-10">
+                        <form>
+                            <div class="g-recaptcha" data-sitekey="6LfuoIAUAAAAAN_sPN6BucqgcV8W8GVvL8i6XFRW"></div>
+                        </form>
+                        <br />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Registrarse" class="myButton" />
+                    </div>
+                </div>
+
+                <cc1:GoogleReCaptcha ID="ctrlGoogleReCaptcha" runat="server" PublicKey="6LdXnYAUAAAAADbB9qa0EenYM8r60D7nv1cNGrTT" PrivateKey="6LdXnYAUAAAAADlU9eEGdEJDtyOVGtU5HXo5VNvd" />
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-2">
+                        <label class="label-success">@ViewBag.SuccessMessage</label>
+                    </div>
+                </div>
+            </div>
         </div>
-    </div>
-    <div class="form-group">
-        @Html.LabelFor(model => model.tipo, htmlAttributes: new { @class = "control-label col-md-4" })
-        <div class="col-md-4">
-            @Html.CheckBoxFor(model => model.tipo, new { htmlAttributes = new { @class = "form-control" } })
-            @Html.ValidationMessageFor(model => model.tipo, "", new { @class = "text-danger" })
-        </div>
-    </div>
-    <div class="from-group">
-        <div class="col-md-offset-1 col-md-10">
+        <div class="col-sm-4">
+            <div class="row" style="margin-top: 50px;">
+                <div class="col-md-9" align="center">
+                    <b align="center">O bien, regístrate utilizando:</b>
+                </div>
+            </div>
             <br />
-            <form>
-                <div class="g-recaptcha" data-sitekey="6LfuoIAUAAAAAN_sPN6BucqgcV8W8GVvL8i6XFRW"></div>                
-            </form>
-            <br /><br />
+            <div class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="true"></div>
         </div>
     </div>
-
-    <div class="form-group">
-        <div class="col-md-offset-2 col-md-10">
-            <input type="submit" value="Registrarse" class="myButton" />
-        </div>
-    </div>
-
-    <cc1:GoogleReCaptcha ID="ctrlGoogleReCaptcha" runat="server" PublicKey="6LdXnYAUAAAAADbB9qa0EenYM8r60D7nv1cNGrTT" PrivateKey="6LdXnYAUAAAAADlU9eEGdEJDtyOVGtU5HXo5VNvd" />
-
-    <div class="form-group">
-        <div class="col-md-offset-2 col-md-2">
-            <label class="label-success">@ViewBag.SuccessMessage</label>
-        </div>
-    </div>
-</div>
-    }
-
+}
 
     @section Scripts {
         @Scripts.Render("~/bundles/jqueryval")
