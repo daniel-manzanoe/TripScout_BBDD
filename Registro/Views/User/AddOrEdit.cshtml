@@ -21,7 +21,7 @@
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) { return; }
         js = d.createElement(s); js.id = id;
-        js.src = "https://connect.facebook.net/es_ES/sdk.js";
+        js.src = "https://connect.facebook.net/en_US/sdk.js";
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 </script>
@@ -108,7 +108,7 @@
 
                 <div class="form-group">
                     <div class="col-md-offset-2 col-md-2">
-                        <label class="label-success">@ViewBag.SuccessMessage</label>
+                        <label class="label-success">@ViewBag.Error</label>
                     </div>
                 </div>
             </div>
