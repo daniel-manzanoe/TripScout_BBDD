@@ -34,5 +34,11 @@ namespace Registro.Controllers
 
             return View();
         }
+
+        public ActionResult PaginaPrueba()
+        {
+            ViewBag.Message = "Your pagina de prueba";
+            return View();
+        }
     }
 }

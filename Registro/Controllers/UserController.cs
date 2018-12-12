@@ -40,6 +40,7 @@ namespace Registro.Controllers
                 if (dbModel.Usuario.Any(x => x.correo == userModel.correo))
                 {
                     Debug.WriteLine("Ya existe un usuario con ese correo");
+                    ViewBag.Error = "Ya existe un usuario con ese correo";
                     return View("AddOrEdit", new Usuario());
                 }
                 else
@@ -47,12 +48,16 @@ namespace Registro.Controllers
                     if (!passwordSecurity(userModel.contraseña))
                     {
                         Debug.WriteLine("La contraseña no es segura");
+                        ViewBag.Error = "La contraseña debe tener una longitud de al menos 7 dígitos, 6 caracteres, un caracter en mayúscula" +
+                            ", un número y un carácter alfanumérico";
+
                     }
                     else
                     {
                         if (!mail.email_bien_escrito(userModel.correo))
                         {
                             Debug.WriteLine("correo invalido");
+                            ViewBag.Error = "Correo invalido";
                             return View("AddOrEdit", new Usuario());
                         }
                         else
@@ -60,10 +65,13 @@ namespace Registro.Controllers
                             if (response.Success)
                             {
                                 Debug.WriteLine("Usuario registrado correctamente");
+                                ViewBag.Error = "Usuario registrado correctamente";
                                 dbModel.Usuario.Add(userModel);
                                 mail.SendEmail(userModel.correo);
                                 dbModel.SaveChanges();
                             }
+                            else
+                                ViewBag.Error = "Captcha incorrecto";
                         }
                     }
                 }
@@ -100,6 +108,7 @@ namespace Registro.Controllers
             Debug.WriteLine("No existe el usuario");
             return (View("Login", new Usuario()));
         }
+
         public bool passwordSecurity(String password)
         {
             if (Regex.IsMatch(password, @"^.*(?=.{7,})(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9]).*$"))
