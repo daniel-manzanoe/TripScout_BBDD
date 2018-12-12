@@ -566,7 +566,6 @@ C:\Users\alvar\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\obj\Debug\Tr
 C:\Users\alvar\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Google.Apis.Core.dll
 C:\Users\alvar\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Google.Apis.dll
 C:\Users\alvar\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Google.Apis.PlatformServices.dll
-C:\Users\alvar\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\hbehr.recaptcha.dll
 C:\Users\alvar\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Google.Apis.pdb
 C:\Users\alvar\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Google.Apis.xml
 C:\Users\alvar\Source\Repos\daniel-manzanoe\TripScout_BBDD\Registro\bin\Google.Apis.Core.pdb
