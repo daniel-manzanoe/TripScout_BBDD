@@ -20,7 +20,7 @@ namespace Registro
         [Required(ErrorMessage = "Introduzca un correo")]
         [DisplayName("Correo")]
         public string correo { get; set; }
-        [Required(ErrorMessage = "Introduzca un correo")]
+        [Required(ErrorMessage = "Introduzca una contraseña")]
         [DataType(DataType.Password)]
         [DisplayName("Contraseña")]
         public string contraseña { get; set; }
