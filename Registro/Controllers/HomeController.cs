@@ -35,9 +35,39 @@ namespace Registro.Controllers
             return View();
         }
 
-        public ActionResult PaginaPrueba()
+        public ActionResult Roma()
         {
-            ViewBag.Message = "Your pagina de prueba";
+            ViewBag.Message = "Roma";
+            return View();
+        }
+
+        public ActionResult AlcalaH()
+        {
+            ViewBag.Message = "AlcalaH";
+            return View();
+        }
+
+        public ActionResult Bilbao()
+        {
+            ViewBag.Message = "Bilbao";
+            return View();
+        }
+
+        public ActionResult Toledo()
+        {
+            ViewBag.Message = "Toledo";
+            return View();
+        }
+
+        public ActionResult Tokio()
+        {
+            ViewBag.Message = "Tokio";
+            return View();
+        }
+
+        public ActionResult Sevilla()
+        {
+            ViewBag.Message = "Sevilla";
             return View();
         }
     }
