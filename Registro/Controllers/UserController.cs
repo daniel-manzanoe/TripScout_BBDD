@@ -52,6 +52,7 @@ namespace Registro.Controllers
                             ", un número y un carácter alfanumérico";
 
                     }
+
                     else
                     {
                         if (!mail.email_bien_escrito(userModel.correo))
@@ -96,6 +97,7 @@ namespace Registro.Controllers
                 {
                     //usuario guia
                     Debug.WriteLine("Usuario GUIA");
+                    return (View("Login", new Usuario()));
                 }
                 if (dbModel.Usuario.Any(x => x.correo == userModel.correo
                  && x.contraseña == userModel.contraseña && x.tipo == false))

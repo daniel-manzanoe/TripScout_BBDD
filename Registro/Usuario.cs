@@ -23,6 +23,7 @@ namespace Registro
         [Required(ErrorMessage = "Introduzca una contraseña")]
         [DataType(DataType.Password)]
         [DisplayName("Contraseña")]
+
         public string contraseña { get; set; }
         [DataType(DataType.Password)]
         [DisplayName("Confirmar contraseña")]
